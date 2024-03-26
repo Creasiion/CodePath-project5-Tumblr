@@ -2,7 +2,7 @@
 
 Submitted by: **Imani Cage**
 
-**Name of your app** is an app that fetches a feed of blog posts from the Tumblr API and display them in a scrolling list via a table view.
+**Tumblr Feed** is an app that fetches a feed of blog posts from the Tumblr API and display them in a scrolling list via a table view.
 
 Time spent: **4** hours spent in total
 
